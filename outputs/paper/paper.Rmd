@@ -5,7 +5,7 @@ author:
   - Shengyi Dai
   - Suofeiya Guo
   - Zifeng Zhu
-thanks: "Code and data are available at: https://github.com/celinadai/paper4"
+thanks: "Code and data are available at: https://github.com/zhuzifen/sta304_paper4"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 abstract: "This report is going to find the relationship between age, gender and educational attainment in Ghana in 1998. After some analyses we get that men were generally more educated than women, and at the same time, older people were much less educated than younger people. Education level is very important in today's society, it can change a person's mind and life, and it can also change the economic level of a country. From this report we can see that in Ghana in 1998, most people did not review a higher education, but today, education has become widespread all over the world, and prejudice between men and women is gradually decreasing."
 output:
